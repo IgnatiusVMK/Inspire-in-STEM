@@ -16,16 +16,16 @@ Day 1 : Installing Python
  ![lesson 1](./images/lesson1.png)
 
 Day 3:Python Strings
- strings 
-  float()
-  int()
-  str()
-  replace()
-  slice()
-  strip()
-  format() 
-  lower()
-  len()
+   strings 
+      float()
+      int()
+      str()
+      replace()
+      slice()
+      strip()
+      format() 
+      lower()
+      len()
 
 Day 4: Lists and Loops
  Lists
