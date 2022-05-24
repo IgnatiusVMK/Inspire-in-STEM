@@ -12,3 +12,5 @@ if (int(age) > 25) and (int(age) < 30 ):
     print("Congrats,Ksh 10000 has been deposited to your acc.")
 else:
     print("Sorry,request un-available for your age bracket💔😂")
+
+ 
