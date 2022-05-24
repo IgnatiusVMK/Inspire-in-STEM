@@ -48,4 +48,4 @@ Day 4: Lists and Loops
 ## Week 5 : Design Thinking, UX, Ui
 
 
-## Week 6 : Pitch
+## Week 6 : Pitch# Inspire-in-TEM
