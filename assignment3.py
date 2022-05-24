@@ -1,3 +1,11 @@
+#!usr/bin/python
+
+########################
+#          Assignment3
+#          Name: 
+#          Date: 24/5/2021
+########################
+
 #Task --> Write a program ;that gets user input and adds ksh 10,000
 # to her account if she is btwn 25-30 years
 

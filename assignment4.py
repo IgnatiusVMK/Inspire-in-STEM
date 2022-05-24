@@ -1,3 +1,11 @@
+#!usr/bin/python
+
+########################
+#          Assignment4 
+#          Name: 
+#          Date: 24/5/2021
+########################
+
 # Write a program to withdraw Ksh 25,000 if account balance is between Ksh 100,000 to 200,000
 #   30% if acc is 500,000 1,000,000.
 

@@ -1,7 +1,7 @@
 #!usr/bin/python
 
 ########################
-#          Lists; for loops
+#          for loops
 #          Name: 
 #          Date: 24/5/2021
 ########################

@@ -1,7 +1,7 @@
 #!usr/bin/python
 
 ########################
-#          Assignments Calculate areas
+#          Assignment1 
 #          Name: 
 #          Date: 24/5/2021
 ########################

@@ -37,6 +37,18 @@ Day 4: Lists and Loops
  Loops
    for
 ## Week 2 : Electronics for innovators
+Day 1: Dictionaries
+        Initializing dictionaries
+        adding key value pairs 
+        Initializing empty dictionary 
+        modyfing values
+        Removing key value pairs
+![lesson 7](./images/lesson7.png)
+ 
+Day 2: Lists
+       Loops; for loops
+![lesson 8](./images/lesson8.png)
+
 
 
 ## Week 3 : Introduction to Robotics
