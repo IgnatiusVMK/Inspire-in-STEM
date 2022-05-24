@@ -23,7 +23,7 @@ Day 3:Python Strings
   replace()
   slice()
   strip()
-  format()
+  format() 
   lower()
   len()
 

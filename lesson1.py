@@ -1,3 +1,10 @@
+#!usr/bin/python
+
+########################
+#          Python basics
+#          Name: 
+#          Date: 24/5/2021
+########################
 print('Hello')
 
 # python basics

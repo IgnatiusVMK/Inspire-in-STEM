@@ -1,3 +1,10 @@
+#!usr/bin/python
+
+########################
+#          Methods,slicing,splitting & converting to diff cases
+#          Name: 
+#          Date: 24/5/2021
+########################
 # methods
 name = "Safaricom"
 # name = "Ada Lovelace"

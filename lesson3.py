@@ -1,3 +1,11 @@
+#!usr/bin/python
+
+########################
+#          Getting user input
+#          Name: 
+#          Date: 24/5/2021
+########################
+
 # getting user input
 
 f_name = input("Enter first name ")
