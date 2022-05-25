@@ -3,7 +3,7 @@
 ########################
 #          Dictionaries
 #          Name: 
-#          Date: 24/5/2021
+#          Date: 23/5/2021
 ########################
 
 # Initializing dictionaries
@@ -38,4 +38,4 @@ student["Name"] = "Kariuki"
 del student["Favorite-food"]
 print(student)
 
-print()
+#print()
