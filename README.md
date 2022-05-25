@@ -11,6 +11,19 @@ Day 1 : Installing Python
 
  Add a link to downloading git for windows
    https://github.com/git-for-windows/git/releases/download/v2.36.1.windows.1/Git-2.36.1-64-bit.exe
+ 
+Configuring Github:
+ git add *
+ git commit -m"First commit"
+ git git branch -m main
+ git config --global user.name "IgnatiusVMK"
+ git config --global user.email "ignatiusvmk@gmail.com"
+ git remote add main https://github.com/IgnatiusVMK/InspireY-in-STEM
+ git push main
+
+
+
+ ![Day 1](./images/github_configuration.png)
 
 
  ![lesson 1](./images/lesson1.png)
