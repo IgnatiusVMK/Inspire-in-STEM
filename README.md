@@ -1,8 +1,8 @@
-#### Inspire Youth in STEM
+##### Inspire Youth in STEM
 
 
-## Week 1 : Introduction to Python3
- # Day 1 : Installing Python
+### Week 1 : Introduction to Python3
+ ## Day 1 : Installing Python
  Add a link to python download
    https://www.python.org/downloads/
 
@@ -28,7 +28,7 @@
 
  ![lesson 1](./images/lesson1.png)
 
-# Day 3:Python Strings
+## Day 3:Python Strings
  # (a)strings 
       float()
       int()
@@ -40,7 +40,7 @@
       lower()
       len()
 
-# Day 4: Lists and Loops
+## Day 4: Lists and Loops
  # Lists
     accesing list items using index
     adding element in a list
@@ -48,8 +48,8 @@
     deleting an item from a list-- del
     Removing an item from a list
     Loops
-## Week 2 : Electronics for innovators
- # Day 1: Dictionaries
+### Week 2 : Electronics for innovators
+ ## Day 1: Dictionaries
         Initializing dictionaries
         adding key value pairs 
         Initializing empty dictionary 
@@ -57,19 +57,28 @@
         Removing key value pairs
 ![lesson 7](./images/lesson7.png)
  
-Day 2: Lists
+ ## Day 2: Lists
        Loops; for loops
 ![lesson 8](./images/lesson8.png)
 
+ ## Day 3 : Dictionaries
+      What are dictionaries.
+      Syntax for dictionaries:
+          -Dictionary = {'key':'value'}
+      Define, Add,Remove
+      using the type method to determine data types
+
+  ![lesson 9](./images/lesson9.png)
 
 
-## Week 3 : Introduction to Robotics
+
+### Week 3 : Introduction to Robotics
 
 
-## Week 4 : JavaScript , Css, html
+### Week 4 : JavaScript , Css, html
 
 
-## Week 5 : Design Thinking, UX, Ui
+### Week 5 : Design Thinking, UX, Ui
 
 
-## Week 6 : Pitch# Inspire-in-TEM
+### Week 6 : Pitch# Inspire-in-TEM
