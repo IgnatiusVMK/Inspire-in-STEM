@@ -9,10 +9,19 @@ food = {
 
 #create dictionary in dictionary 
 #---- person..mary(name,email,password)
-person = {
-         mary = {'name':'Ignacio_marley',
-                 'gender':'Male',
-                 'phone_number':'+254790884584',
-                 'address':'67891 K-Sukari'
-                }
-      }
+#person = {
+       #  "mary = {
+       #          'name':'Ignacio_marley',
+       #          'gender':'Male',
+       #          'phone_number':'+254790884584',
+       #          'address':'67891 K-Sukari' }
+        # }
+
+fav_food = {
+        'mary':['ugali','nyama','choma'],
+        'jane':['chips']
+          }
+
+###............ Looping over dictionaries
+for key, value in fav_food.items(): 
+      print(f"{mary}:{}")
