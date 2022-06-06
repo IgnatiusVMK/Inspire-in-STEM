@@ -1,3 +1,10 @@
+#!usr/bin/python
+
+########################
+#          Reverse nums
+#          Name: 
+#          Date: 27/5/2021
+########################
 # Write a program that will write numbers in reverse order
 from unicodedata import digit
 
