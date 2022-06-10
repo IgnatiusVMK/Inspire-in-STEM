@@ -1,3 +1,10 @@
+#!usr/bin/python
+
+########################
+#          Challenge3
+#          Name: 
+#          Date: -/6/2021
+########################
 # Ask user to select which input to check number or letter.
 # After user enters their input the program should print based on the input inserted
 

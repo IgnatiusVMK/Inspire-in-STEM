@@ -1,3 +1,10 @@
+#!usr/bin/python
+
+########################
+#          Student module
+#          Name: 
+#          Date: -/6/2021
+########################
 class Student:
 
     def __init__(self,name, hobby,year_of_birth):

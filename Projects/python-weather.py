@@ -1,3 +1,10 @@
+#!usr/bin/python
+
+########################
+#          Waether app
+#          Name: 
+#          Date: 8/6/2021
+########################
 # importing requests and json
 import requests, json
 # base URL

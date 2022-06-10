@@ -1,3 +1,11 @@
+#!usr/bin/python
+
+########################
+#          Analog clock
+#          Name: 
+#          Date: -/6/2021
+########################
+
 #list of imported modules
 from tkinter import *
 from math import cos, sin

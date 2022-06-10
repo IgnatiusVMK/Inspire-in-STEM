@@ -1,3 +1,10 @@
+#!usr/bin/python
+
+########################
+#          Digital clock
+#          Name: 
+#          Date: -/6/2021
+########################
 # importing whole module
 from tkinter import * 
 from tkinter.ttk import *

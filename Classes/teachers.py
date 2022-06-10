@@ -1,3 +1,10 @@
+#!usr/bin/python
+
+########################
+#          Teacher module
+#          Name: 
+#          Date: -/6/2021
+########################
 class Teachers():
     def __init__(self,name,tsc_no,subject,salary):
         self.name = name
