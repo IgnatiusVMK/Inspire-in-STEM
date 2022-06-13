@@ -1,3 +1,10 @@
+#!usr/bin/python
+
+########################
+#          
+#          Name: Ignatius Victor M.K
+#          Date: -/-/2021
+########################
 colors = ["red", "green","blue","purple"]
 
 i = 0

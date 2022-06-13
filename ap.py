@@ -2,7 +2,7 @@
 
 ########################
 #          Arithmetic progression
-#          Name: 
+#          Name: Ignatius Victor M.K
 #          Date: 27/5/2021
 ########################
 

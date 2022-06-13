@@ -2,7 +2,7 @@
 
 ########################
 #          Divisibilities
-#          Name: 
+#          Name: Ignatius Victor M.K
 #          Date: 30/5/2021
 ########################
 

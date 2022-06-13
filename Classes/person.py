@@ -2,7 +2,7 @@
 
 ########################
 #          Introduction to Classes
-#          Name: 
+#          Name: Ignatius Victor M.K
 #          Date: 2/6/2021
 ########################
 

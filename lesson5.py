@@ -2,7 +2,7 @@
 
 ########################
 #          Methods,slicing,splitting & converting to diff cases
-#          Name: 
+#          Name: Ignatius Victor M.K
 #          Date: 20/5/2021
 ########################
 # methods

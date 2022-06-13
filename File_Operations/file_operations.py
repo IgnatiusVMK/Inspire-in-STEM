@@ -1,3 +1,10 @@
+#!usr/bin/python
+
+########################
+#          File operations
+#          Name: Ignatius Victor M.K
+#          Date: -/6/2021
+########################
 #f = open("lesson.txt")
 f = open("lesson.txt")
 #read line by line

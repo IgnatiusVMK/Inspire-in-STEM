@@ -2,7 +2,7 @@
 
 ########################
 #          Reverse nums
-#          Name: 
+#          Name: Ignatius Victor M.K
 #          Date: 27/5/2021
 ########################
 # Write a program that will write numbers in reverse order

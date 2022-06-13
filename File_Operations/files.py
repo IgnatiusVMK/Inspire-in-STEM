@@ -1,3 +1,10 @@
+#!usr/bin/python
+
+########################
+#          File operation commands
+#          Name: Ignatius Victor M.K
+#          Date: -/6/2021
+########################
 f  = open("lesson.txt") # equivalent to 'r' or 'rt'
 f =open("lesson.txt",'w') # wi
 

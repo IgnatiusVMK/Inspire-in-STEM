@@ -2,7 +2,7 @@
 
 ########################
 #          Waether app
-#          Name: 
+#          Name: Ignatius Victor M.K
 #          Date: 8/6/2021
 ########################
 # importing requests and json

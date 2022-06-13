@@ -2,7 +2,7 @@
 
 ########################
 #          Password generators
-#          Name: 
+#          Name: Ignatius Victor M.K
 #          Date: 3/6/2021
 ########################
 

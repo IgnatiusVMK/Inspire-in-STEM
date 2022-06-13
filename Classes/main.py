@@ -2,7 +2,7 @@
 
 #############################
 #          file: operations_module.py
-#          Name: Victor
+#          Name: Ignatius Victor M.K
 #          Date: 6/6/2021
 #############################
 from hashlib import new

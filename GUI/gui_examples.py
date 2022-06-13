@@ -2,7 +2,7 @@
 
 ####################################
 #          Gui examples using ktinker
-#          Name: Victor
+#          Name: Ignatius Victor M.K
 #          Date: 7/6/2022
 ####################################
 

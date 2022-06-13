@@ -2,7 +2,7 @@
 
 ########################
 #          Challenge3
-#          Name: 
+#          Name: Ignatius Victor M.K
 #          Date: -/6/2021
 ########################
 # Ask user to select which input to check number or letter.
