@@ -1,0 +1,14 @@
+body{
+  margin: 15px;
+  background-color: azure;
+}
+#nav1{
+  background-color: gray;
+  margin: 20px;
+}
+.H1{
+  color:red;
+}
+.H3{
+  color: brown;
+}
